@@ -1,4 +1,4 @@
-#Morse Code Translator (8086 Assembly)
+Morse Code Translator (8086 Assembly)
   A Morse Code Translator implemented in 8086 Assembly Language as part of the CSE 341: Microprocessors course project of BRAC University.
   Its a group project done by Swapnil Rob,Nafisa Hasan and Ahad Islam Shanto.
 
